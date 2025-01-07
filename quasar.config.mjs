@@ -85,7 +85,7 @@ export default configure((/* ctx */) => ({
       },
     },
     vitePlugins: [
-      ['@haixing_hu/vite-plugin-babel'],
+      ['@qubit-ltd/vite-plugin-babel'],
     ],
   },
 

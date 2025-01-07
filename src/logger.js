@@ -6,7 +6,7 @@
 //    All rights reserved.
 //
 ////////////////////////////////////////////////////////////////////////////////
-import { Logger } from '@haixing_hu/common-logging';
+import { Logger } from '@qubit-ltd/logging';
 import config from 'src/config';
 
 const logger = Logger.getLogger(config.app.code);

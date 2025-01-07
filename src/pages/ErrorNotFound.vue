@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import { Component, toVue } from '@haixing_hu/vue3-class-component';
+import { Component, toVue } from '@qubit-ltd/vue3-class-component';
 
 @Component
 class ErrorNotFound {
