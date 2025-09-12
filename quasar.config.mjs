@@ -76,7 +76,7 @@ export default configure((/* ctx */) => ({
     // polyfillModulePreload: true,
     // distDir
 
-    extendViteConf(viteConf) {
+    extendViteConf() {
       // console.dir(viteConf, { depth: null });
     },
     viteVuePluginOptions: {
